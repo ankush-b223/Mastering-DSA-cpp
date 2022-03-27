@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "543a3aa2-d718-424b-8bd6-b1e9f35150cb": {
+      "ProjectGuid": "543a3aa2-d718-424b-8bd6-b1e9f35150cb",
+      "DisplayName": "first C++ program",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
