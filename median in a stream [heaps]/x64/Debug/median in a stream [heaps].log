@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ankb2\source\repos\median in a stream [heaps]\Source.cpp(25,9): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ankb2\source\repos\median in a stream [heaps]\Source.cpp(149,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  median in a stream [heaps].vcxproj -> C:\Users\ankb2\source\repos\median in a stream [heaps]\x64\Debug\median in a stream [heaps].exe
