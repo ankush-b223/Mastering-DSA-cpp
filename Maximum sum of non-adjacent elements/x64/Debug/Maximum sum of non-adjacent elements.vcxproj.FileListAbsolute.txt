@@ -1,0 +1,1 @@
+D:\Visual Studio!\repos\Maximum sum of non-adjacent elements\x64\Debug\Maximum sum of non-adjacent elements.exe

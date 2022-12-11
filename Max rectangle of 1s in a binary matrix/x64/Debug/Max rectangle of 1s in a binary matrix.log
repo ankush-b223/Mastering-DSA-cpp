@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Visual Studio!\repos\Max rectangle of 1s in a binary matrix\Source.cpp(44,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio!\repos\Max rectangle of 1s in a binary matrix\Source.cpp(66,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio!\repos\Max rectangle of 1s in a binary matrix\Source.cpp(84,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Max rectangle of 1s in a binary matrix.vcxproj -> D:\Visual Studio!\repos\Max rectangle of 1s in a binary matrix\x64\Debug\Max rectangle of 1s in a binary matrix.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Visual Studio!\repos\House Robber 1d dp\Source.cpp(61,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio!\repos\House Robber 1d dp\Source.cpp(80,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio!\repos\House Robber 1d dp\Source.cpp(81,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  House Robber 1d dp.vcxproj -> D:\Visual Studio!\repos\House Robber 1d dp\x64\Debug\House Robber 1d dp.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Visual Studio!\repos\next smaller element (stacks)\Source.cpp(11,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio!\repos\next smaller element (stacks)\Source.cpp(32,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  next smaller element (stacks).vcxproj -> D:\Visual Studio!\repos\next smaller element (stacks)\x64\Debug\next smaller element (stacks).exe

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Visual Studio!\repos\Largest histogram\Source.cpp(15,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio!\repos\Largest histogram\Source.cpp(76,29): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Largest histogram.vcxproj -> D:\Visual Studio!\repos\Largest histogram\x64\Debug\Largest histogram.exe
