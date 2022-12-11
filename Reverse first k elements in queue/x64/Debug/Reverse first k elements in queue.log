@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ankb2\source\repos\Reverse first k elements in queue\Source.cpp(36,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ankb2\source\repos\Reverse first k elements in queue\Source.cpp(76,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Reverse first k elements in queue.vcxproj -> C:\Users\ankb2\source\repos\Reverse first k elements in queue\x64\Debug\Reverse first k elements in queue.exe
